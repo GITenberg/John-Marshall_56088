@@ -1,0 +1,20 @@
+_repo: John-Marshall_56088
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thayer, James Bradley
+    gutenberg_agent_id: '48663'
+    url: http://www.gutenberg.org/2009/agents/48663
+description: ''
+gutenberg_issued: '2017-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: John Marshall
+url: http://www.gutenberg.org/ebooks/56088
